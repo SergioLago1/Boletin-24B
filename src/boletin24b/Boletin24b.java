@@ -3,7 +3,7 @@ package boletin24b;
 
 /**
  *
- * @author julian
+ * @author slagogonzalez
  */
 public class Boletin24b {
 
